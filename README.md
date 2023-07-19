@@ -1,1 +1,1 @@
-# Advice-Generator-App
+# Advice-generator-app
